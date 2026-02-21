@@ -1,3 +1,3 @@
 # Dependabot Security Lab
 
-25ds200008@ds.study.iitm.ac.in
+25ds2000008@ds.study.iitm.ac.in
